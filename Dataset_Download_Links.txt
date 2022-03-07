@@ -1,0 +1,9 @@
+Extracted building samples based on disaster type can be downloaded from following links:
+
+Difference Images - https://drive.google.com/open?id=1PQ8DP8jeCk2jvDEu1tfooPqLDaAbBamk
+
+Post Images - https://drive.google.com/open?id=1Yf0F6kmtEiLM1VVUmUVMpMUo18EDUixA
+
+Pre Images - https://drive.google.com/open?id=1HUazFB0iY607IkFnkqzt5ejY7W3ifjcD
+
+Resized satellite images for disaster type classification: https://drive.google.com/open?id=1vZMGvRJszYKD9LHqbee63IjtsKAhGEmD
